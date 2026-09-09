@@ -14,7 +14,7 @@
   Platform teams keep credentials, quotas, routing, failover, and usage — managed centrally, enforced by Envoy.
 </p>
 
-<p align="center"><b>Agent Router controls. Envoy carries.</b></p>
+<p align="center"><b>Agent Router configures. Envoy handles the traffic.</b></p>
 
 <p align="center"><sub>An Agentic AI Foundation project · Built on Envoy · Formerly Envoy AI Gateway</sub></p>
 
